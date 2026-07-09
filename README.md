@@ -5,19 +5,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinemertural&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemertural&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=sinemertural&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinemertural)
